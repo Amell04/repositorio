@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.2/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+</head>
+
+<body>
+    <div ng-app="app" ng-controller="webApiControler">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>Formulario de Medicamentos</h2>
+
+                    <div class="form-group">
+                        <label for="">Id:</label>
+                        <input ng-disabled="btnGA==false" type="number"  ng-model="Id" placeholder="Coloque un Numero.."
+                            class="form-control" required>
+
+                        <label for="">Medicamento:</label>
+                        <input type="text"  ng-model="Medicamento" placeholder="Coloque un Medicamento.."
+                            class="form-control" required>
+
+                        <label for="">Marca:</label>
+                        <input type="text"  ng-model="Marca" placeholder="Coloque un Apellidos.." class="form-control"
+                            required>
+                        <br>
+                        <button  class="btn btn-success"  ng-click="guardar()" type="button" value="Guardar" >Guardar</button>
+                        <button  class="btn btn-primary" ng-click="actualizar()">Actualizar</button>
+                        <button  class="btn btn-danger" ng-click="reset()">Cancelar</button>
+
+                    </div>
+                </div>
+                <div class="col-md-6">
+
+                    <h1>Web API</h1>
+                    <table class="table table-hover">
+                        <thead>
+                            <h1>
+                                Listado de Medicamentos
+                            </h1>
+                            <tr>
+                                <th>Id</th>
+                                <th>Medicamento</th>
+                                <th>Marca</th>
+                            </tr>
+
+                        </thead>
+                        <tbody>
+                            <tr data-ng-repeat="i in lista">
+                                <td>{{i.id}}</td>
+                                <td>{{i.medicamento1}}</td>
+                                <td>{{i.marca}}</td>
+                                <td>
+                                    <button class="btn btn-danger" ng-click="eliminar(i.id)">Eliminar</button>
+                                    <button class="btn btn-warning" ng-click="cargarId(i.id)">Modificar</button>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <script>
+        //inicializando la app de angular 
+        var app = angular.module("app", []);
+
+        //agregando controlador
+        app.controller("webApiControler", function ($scope, $http) {
+            $scope.btnGA = true;
+
+            $scope.cargar = function () {
+                //inicializando la peticion al servidor web 
+                $http.get("http://localhost:61872/api/medicamentoes").then(function success(response) {
+
+                    $scope.datos = response.data; //.data para acceder a toda la imformacion del response
+                    $scope.lista = response.data;
+                },
+
+                    function error() {
+                        //en caso que se genere un errror en la peticion
+                        $scope.datos = "Error en la peticion" + response.statusText;
+                    });
+
+            }
+
+            $scope.cargar();//  
+
+            //Funcion guardar 
+            $scope.guardar=function(){
+
+                var data={
+                    id:$scope.Id,
+                    medicamento1:$scope.Medicamento,
+                    marca:$scope.Marca
+                }
+
+                $http.post("http://localhost:61872/api/medicamentoes",JSON.stringify(data)).then(
+                    function success(response){
+                        alert("Guardado");
+                        $scope.cargar();
+                        $scope.reset();
+                    },
+
+                    function error(response) {
+                        alert("No Guardado");
+                    });
+            }
+
+            // Funcion Eliminar
+            $scope.eliminar = function (id) {
+                $http.delete("http://localhost:61872/api/medicamentoes/" + id).then(
+                    function success(response) {
+                        $scope.cargar();
+                    },
+                    function error(response) {
+                        alert("No Eliminado");
+                    });
+            }
+            // Funcion Modificar
+
+            $scope.cargarId =function(id){
+
+                $scope.btnGuardar = false;
+
+                $http.get("http://localhost:61872/api/medicamentoes/"+id).then(
+                    function success(response) {
+                        //en caso de exito
+                        $scope.Id = response.data.id;
+                        $scope.Medicamento = response.data.medicamento1;
+                        $scope.Marca = response.data.marca; 
+                    },
+                    function error() {
+                        $scope.datos = "Error en la peticion" + response.statusText;
+                    });
+
+            }
+            //FUNCION PARA ACTUALIZAR.
+            $scope.actualizar=function(){
+                var data={
+                    id:$scope.Id,
+                    medicamento1:$scope.Medicamento,
+                    marca:$scope.Marca
+                }
+                $http.put("http://localhost:61872/api/medicamentoes/"+$scope.id,JSON.stringify(data)).then(
+                    function success(response) {
+                        alert("Registro Actualizado");
+                        $scope.cargar();
+                        $scope.btnGuardar = true;
+                        $scope.reset();
+                    },
+
+
+                    function error(response) {
+                        alert("No Modificado");
+                    });
+            }
+           //RESETEO DE CONTROLES DEL FORMULARIO Y VARIABLES DE ESTADO
+        $scope.reset=function(){
+        $scope.Id=null;
+        $scope.Medicamento=null;
+        $scope.Marca=null;
+        }
+
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,232 @@
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\ApplicationInsights.config
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Actividad3.dll.config
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Actividad3.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Actividad3.pdb
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\csc.exe
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\csc.exe.config
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\csc.rsp
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\csi.exe
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\csi.exe.config
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\csi.rsp
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.AppContext.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Console.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.IO.Compression.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Security.Claims.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Threading.Thread.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.ValueTuple.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\vbc.exe
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\vbc.exe.config
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\vbc.rsp
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\VBCSCompiler.exe
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Antlr3.Runtime.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\EntityFramework.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\EntityFramework.SqlServer.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AI.Web.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Newtonsoft.Json.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Net.Http.Formatting.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Cors.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Helpers.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Http.Cors.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Http.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Http.WebHost.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Mvc.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Optimization.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Razor.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.WebPages.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.WebPages.Razor.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\WebGrease.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\EntityFramework.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\EntityFramework.SqlServer.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Net.Http.Formatting.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Http.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Http.Cors.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Newtonsoft.Json.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Helpers.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Http.WebHost.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Mvc.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Optimization.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.Razor.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.WebPages.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Web.WebPages.Razor.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Antlr3.Runtime.pdb
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.AI.Web.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Web.Http.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Web.Helpers.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Web.Mvc.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Web.Optimization.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Web.Razor.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Web.WebPages.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\obj\Debug\Actividad3.csprojAssemblyReference.cache
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\obj\Debug\Actividad3.csproj.CoreCompileInputs.cache
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\obj\Debug\Actividad3.csproj.CopyComplete
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\obj\Debug\Actividad3.dll
+C:\Users\amalia.calderonfgkah\source\repos\Actividad3\Actividad3\obj\Debug\Actividad3.pdb
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\ApplicationInsights.config
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Actividad3.dll.config
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Actividad3.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Actividad3.pdb
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\csc.exe
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\csc.exe.config
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\csc.rsp
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\csi.exe
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\csi.exe.config
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\csi.rsp
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.AppContext.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Collections.Immutable.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Console.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Diagnostics.Process.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.IO.Compression.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.IO.FileSystem.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.IO.Pipes.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Reflection.Metadata.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Security.AccessControl.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Security.Claims.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Security.Principal.Windows.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Threading.Thread.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.ValueTuple.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Xml.XmlDocument.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Xml.XPath.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\vbc.exe
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\vbc.exe.config
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\vbc.rsp
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\VBCSCompiler.exe
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\roslyn\VBCSCompiler.exe.config
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Antlr3.Runtime.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\EntityFramework.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\EntityFramework.SqlServer.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AI.DependencyCollector.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AI.Web.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AI.WindowsServer.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.ApplicationInsights.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.Web.Infrastructure.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Newtonsoft.Json.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Diagnostics.DiagnosticSource.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Net.Http.Formatting.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Cors.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Helpers.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Http.Cors.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Http.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Http.WebHost.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Mvc.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Optimization.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Razor.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.WebPages.Deployment.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.WebPages.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.WebPages.Razor.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\WebGrease.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\EntityFramework.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\EntityFramework.SqlServer.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Net.Http.Formatting.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Http.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Http.Cors.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Newtonsoft.Json.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Helpers.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Http.WebHost.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Mvc.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Optimization.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.Razor.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.WebPages.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.WebPages.Deployment.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Web.WebPages.Razor.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Antlr3.Runtime.pdb
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\System.Diagnostics.DiagnosticSource.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AI.DependencyCollector.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AI.WindowsServer.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.AI.Web.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Net.Http.Formatting.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Web.Http.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Web.Helpers.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Web.Http.WebHost.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Web.Mvc.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Web.Optimization.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Web.Razor.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Web.WebPages.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Web.WebPages.Deployment.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\bin\es\System.Web.WebPages.Razor.resources.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\obj\Debug\Actividad3.csprojAssemblyReference.cache
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\obj\Debug\Actividad3.csproj.CoreCompileInputs.cache
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\obj\Debug\Actividad3.csproj.CopyComplete
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\obj\Debug\Actividad3.dll
+I:\Nivel3\Desarrollo De Web Api\Actividad3\Actividad3\obj\Debug\Actividad3.pdb
